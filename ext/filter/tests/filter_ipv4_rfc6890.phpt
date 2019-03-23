@@ -101,8 +101,8 @@ string(10) "10.0.0.0/8"
 string(8) "10.0.0.0"
 string(14) "10.255.255.255"
 string(12) "10.64.0.0/10"
-string(10) "100.64.0.0"
-string(15) "100.127.255.255"
+bool(false)
+bool(false)
 string(11) "127.0.0.0/8"
 bool(false)
 bool(false)
